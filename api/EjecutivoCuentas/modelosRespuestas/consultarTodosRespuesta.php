@@ -2,4 +2,5 @@
 
 class ConsultarTodosRespuesta{
     
+    public $ListEjecutivoDeCuentas;
 }
